@@ -59,3 +59,30 @@ typings/
 
 # next.js build output
 .next
+
+package-lock.json
+
+# schedule file
+schedule.json
+
+# scouting data
+data/*
+data-empty/*
+data-storage/*
+
+# credentials and password files
+tba-api-key.txt
+1540password.txt
+
+# notable values
+values.json
+
+# teams and names
+teams.json
+
+# scouts
+scouts.json
+
+# gmail api stuff
+gmail
+gmail/*
